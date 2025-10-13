@@ -10,7 +10,7 @@
 > **FOA-Attack** is proposed to enhance adversarial transferability in multimodal large language models by optimizing both global and local feature alignments using cosine similarity and optimal transport.
 
 ## 💥 News
-
+- **[2025-09-19]** Our paper has been **accepted to NeurIPS 2025**! 🎉  
 - **[2025-05-29]** We release the FOA-Attack code! 🚀
 
 ## 💻 Requirements
