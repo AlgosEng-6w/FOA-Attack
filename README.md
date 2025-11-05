@@ -30,5 +30,14 @@ python gpt_evaluate.py -m blackbox.model_name=gpt4o,claude,gemini
 python keyword_matching_gpt.py -m blackbox.model_name=gpt4o,claude,gemini
 ```
 
+
+## ⚙️ Start (automatic selection of cluster centers)
+```bash
+python FOAttack.py
+```
+
+
+
+
 ## 💖 Acknowledgements
 This project is built on [M-Attack](https://github.com/VILA-Lab/M-Attack). We sincerely thank them for their outstanding work.
